@@ -1,4 +1,4 @@
-a=int(input("enter a number");
+a=int(input("enter a number"));
 temp=a
 rev=0
 while(a<=1000):
