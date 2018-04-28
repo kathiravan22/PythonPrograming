@@ -1,0 +1,5 @@
+n=int(input("enter a number"))
+a=int(input("enter a number"))
+d=int(input("enter a number"))
+ans=((n/2)*((2*a)+((n-1)*d)))
+print(ans)
